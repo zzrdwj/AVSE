@@ -45,6 +45,4 @@ https://user-images.githubusercontent.com/38371930/236717009-93c91dee-862a-4534-
 
 AV-E3Net output
 
-
-https://user-images.githubusercontent.com/38371930/236717088-047adac7-8d9b-4f78-baf7-6173e5ab125f.mp4
-
+![](video/av/sample2.mp4)

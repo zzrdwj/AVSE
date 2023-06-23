@@ -3,9 +3,7 @@
 Ref Video
 
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/zzrdwj/AVSE/tree/main/video/ref/50008.mp4" type="video/mp4">
-</video>
+<video src="https://user-images.githubusercontent.com/38371930/236716488-95b1bd2d-3adf-4808-a177-33772e743a40.mp4"></video>
 
 Raw Audio
 
